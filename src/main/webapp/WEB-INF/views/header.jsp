@@ -39,6 +39,10 @@
                                     <a href="/Careers">Careers</a>
                                 </li>
                                 <li>
+                                    <a href="/Jobs">Jobs</a>
+                                </li>
+                                
+                                <li>
                                     <a href="#">
                                         Locations
                                     </a>
