@@ -41,7 +41,7 @@
                                     </a>
                                     <ul>
                                         <li>
-                                            <a href="#">Cypress Trees</a>
+                                            <a href="#">Cypress Hill</a>
                                         </li>
                                         <li>
                                             <a href="#">Secret Mountain</a>
