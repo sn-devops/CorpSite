@@ -35,19 +35,17 @@
                                 <li>
                                     <a href="/about">About</a>
                                 </li> 
-                                <li>
-                                    <a href="/Careers">Careers</a>
-                                </li>
+                          
                                 <li>
                                     <a href="#">
                                         Locations
                                     </a>
                                     <ul>
                                         <li>
-                                            <a href="#">Cypress Hill</a>
+                                            <a href="#">Cypress Park</a>
                                         </li>
                                         <li>
-                                            <a href="#">Secret Mountain Facility</a>
+                                            <a href="#">Mountain Facility</a>
                                         </li>
                                     </ul>
                                 </li>
