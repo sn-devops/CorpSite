@@ -17,13 +17,6 @@
 									We belive in the power of teams.  We take care of our employees, have fitness rooms 
 									and casual dress, and we don't believe in walls.
 									
-									LIne 1
-									2
-									3
-									4
-									5
-									6
-									7
 								</p>
 							</div>
 						</div>
