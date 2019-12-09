@@ -36,7 +36,7 @@
                                     <a href="/about">About</a>
                                 </li> 
                                 <li>
-                                    <a href="/careers">jobs</a>
+                                    <a href="/careers">careers</a>
                                 </li>
                                 <li>
                                     <a href="#">
